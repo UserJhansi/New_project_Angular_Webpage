@@ -1,0 +1,205 @@
+#myNavbar{
+    color: #f0e3e3;
+    text-align: right;
+    position:relative;
+    width: 95%;
+    height: 14%;
+    margin-top: 3px;
+    background: rgb(89, 39, 78);
+    font-size:medium;
+    
+}
+#nvb{
+    float: right;
+    color: #f0e3e3;
+    text-align: right;
+    font-size: large;
+}
+#nb{
+    text-align: end;
+    color: #f0e3e3;
+}
+
+#homepage{
+    height: 45%;
+    width: 95%;
+    position:relative;
+    background-image: url(../images/imgage.jpg);
+}
+
+h1{
+    text-align: left;
+    color:black;
+}
+
+h2{
+    text-align: center;
+    color: #000;
+    size: large;
+}
+#chemicals{
+    text-align: center;
+    justify-content: center;
+    list-style-type:disc;
+    text-align: left;
+    padding-left: 10%;
+    color: black;
+    background-color: rgb(135, 67, 110);
+}
+#f1 {
+    text-align: left;
+    position: relative;
+    padding-bottom: 8px;
+    padding-left: 30%;
+    color: black;
+    tab-size: 60%;
+    
+}
+#tab2{
+    position: relative;
+    padding-top: 2px;
+    padding-left: 6%;
+    padding-right: 6%;
+    margin-left: 30%;
+    text-align: center;
+    color: black;
+    width: 45%;
+    background-color: rgb(135, 67, 110);
+}
+#td3{
+    padding-top: 1px;
+    color: black;
+    position: relative;
+    padding-left: 65%;
+}
+#lbl{
+    margin-left: 2px;
+    text-align: left;
+    color: black;
+    font-size: medium;
+    tab-size: 60%;
+
+}
+#fname{
+    size: 40%;
+}
+#lbl2{
+    margin-left: 2px;
+    text-align: left;
+    color: black;
+    font-size: large;
+}
+
+#form-submit{
+        text-align: center;
+        color:  rgb(84, 1, 65);
+        tab-size: 60%;
+        font-size: medium;
+        background-color:  rgb(218, 200, 214);
+        border-radius: 10%;
+}
+
+#visit{
+    padding-top: 18px;
+    text-align: left;
+    background-color:rgb(135, 67, 110);
+    color: black;
+    font-size: large;
+    
+}
+#p1{
+    text-align: center;
+    color: #000;
+    size: medium;
+    padding-left: 1px;
+    padding-right: 50px;
+    
+}
+#p2{
+    text-align: center;
+    color: #000;
+}
+#tab{
+    row-gap: 3px;
+    column-gap:  40px;
+    font-size: medium;
+    width: 100%;
+    text-align: center;
+    color: #f0e3e3;
+    size: medium;
+    margin-right: 3px;
+    background-color: rgb(83, 75, 90);
+   
+}
+#tr{
+    font-size: large;
+    font-family: sans-serif;
+    
+}
+#tr2{
+   text-align: center;
+    size:medium;
+    
+}
+#th{
+ background-color: rgb(89, 39, 78);
+}
+#col{
+    color: #000;
+    column-count: 3;
+    
+    text-align: center;
+}
+#btn{
+    width: 10%;
+    position: absolute;
+    left: 45px;
+    font-size: medium;
+    border-radius: 30%;
+    font-size: 14px;
+    color:  rgb(89, 39, 78);
+    background-color: rgb(223, 212, 212);
+
+}
+
+ul{
+    list-style:none;
+    list-style-position: inside;
+}
+
+#aapmnt{
+    position: absolute;
+
+    margin-bottom: 1px;
+    text-align: left;
+    color: #131010;
+    size: medium;
+}
+    
+.medium{
+    font-family: "Roboto", sans-serif;
+    font-weight: 800;
+    font-size: larger;
+}
+
+.right-nav{
+    padding: 8px 15px;
+    float: right;
+}
+
+
+div.container{
+    font-family: Raleway;
+    margin: 0 auto;
+    padding: 6px 3em;
+    text-align: end;
+}
+
+div.container a
+{
+    color: #000;
+    text-decoration: none;
+    margin: 0px 20px;
+    padding: 5px 5px;
+    position: relative;
+}
